@@ -1,5 +1,13 @@
-O Alura Mini de Teclas de Som é um projeto focado em ensinar a manipulação do DOM usando JavaScript. 
+Este projeto foi desenvolvido para praticar a manipulação do DOM usando JavaScript. O Alura Midi é uma mini aplicação que simula sons de instrumentos musicais com teclas interativas.
 
-O projeto utiliza funções declarativas e expressas, laços de repetição, variáveis, condicionais como o if, template strings e manipulação de classes para criar uma experiência divertida de aprendizado. Cada tecla representa um elemento da bateria, emitindo um som correspondente ao ser clicada ou selecionada.
+📚 Tecnologias Utilizadas
+HTML (57.2%)
+JavaScript (42.8%)
+CSS
 
-O  projeto oferece uma maneira prática de aprender conceitos essenciais de JavaScript.
+🚀 Funcionalidades
+Interação com teclas virtuais.
+Sons que correspondem a elementos de uma bateria.
+
+🎯 Objetivo
+Ensinar conceitos como loops, condicionais e funções no JavaScript, com foco em manipulação de eventos.
